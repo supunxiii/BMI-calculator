@@ -188,7 +188,7 @@ Potential improvements for future versions:
 
 ## Contact
 
-For any enquiries or feedback, please contact the development team:
+For any inquiries or feedback, please contact the developer:
 
 - **Supun Wijesooriya**: [GitHub Profile](https://github.com/supunxiii)
 - **Project Repository**: [BMI-calculator](https://github.com/supunxiii/BMI-calculator)
